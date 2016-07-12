@@ -107,4 +107,4 @@ window.spPropertyBag.init = function() {
 		});
 	}
 };
-window.spPropertyBag.init();
+SP.SOD.executeFunc('sp.js', 'SP.ClientContext', window.spPropertyBag.init);
