@@ -1,0 +1,38 @@
+{
+  "name": "sppropertybag",
+  "version": "0.0.1",
+  "description": "Property bag Modal dialog administration",
+  "main": "SpPropertyBag-Bookmarklet.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.13.6",
+    "gulp-uglify": "^1.5.4",
+    "gulp-util": "^3.0.7",
+    "tsify": "^1.0.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariuS231/SpPropertyBag.js.git"
+  },
+  "keywords": [
+    "SharePoint",
+    "PropertyBag",
+    "CSOM",
+    "JavaScript"
+  ],
+  "author": "Darius231",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DariuS231/SpPropertyBag.js/issues"
+  },
+  "homepage": "https://github.com/DariuS231/SpPropertyBag.js#readme"
+}
